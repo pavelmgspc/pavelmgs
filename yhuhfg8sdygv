@@ -1,0 +1,7 @@
+#EXTM3
+#EXTINF:-1,Private Tv
+http://178.21.120.198:1935/live3/_definst_/mp4:privatetv/playlist.m3u8
+#EXTINF:-1,Hustler HD
+http://178.21.120.198:1935/live3/_definst_/mp4:hustlerhd/playlist.m3u8
+#EXTINF:-1,Hustler Tv
+http://178.21.120.198:1935/live3/_definst_/mp4:hustlertv/playlist.m3u8
